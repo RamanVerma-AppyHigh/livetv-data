@@ -1,0 +1,37 @@
+[
+  {
+    "language_name": "English",
+    "isChecked": false,
+    "key_id": "English"
+  },
+  {
+    "language_name": "हिंदी",
+    "isChecked": false,
+    "key_id": "Hindi"
+  },
+  {
+    "language_name": "मराठी",
+    "isChecked": false,
+    "key_id": "Marathi"
+  },
+  {
+    "language_name": "ಕನ್ನಡ",
+    "isChecked": false,
+    "key_id": "Kannada"
+  },
+  {
+    "language_name": "ਪੰਜਾਬੀ",
+    "isChecked": false,
+    "key_id": "Punjabi"
+  },
+  {
+    "language_name": "தமிழ்",
+    "isChecked": false,
+    "key_id": "Tamil"
+  },
+  {
+    "language_name": "తెలుగు",
+    "isChecked": false,
+    "key_id": "Telugu"
+  }
+]
