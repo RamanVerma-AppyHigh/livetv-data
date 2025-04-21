@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "67b5a5d201653ce7949b90ee",
+        "key_id": "youtube_PhpxBLyp8qc",
+        "poster_link": "https://i.ytimg.com/vi/PhpxBLyp8qc/hqdefault.jpg",
+        "isVideo": true,
+        "platform": "youtube",
+        "publisherID": "602102b92ab9b771fa7e1fe9",
+        "createdAt": "2025-02-19 15:05:09.100000",
+        "updatedAt": "2025-02-19 15:05:09.100000",
+        "d_source": "y_api",
+        "publisherID_JSON": "youtube_UCrEgDt1Nq-c1_rUDhf6R9UQ",
+        "category_JSON": [
+            "News"
+        ],
+        "category": [
+            "5e18407ccc52c4f89e56245e"
+        ],
+        "country": [
+            "IN"
+        ],
+        "postDate": "2024-05-25 13:02:35",
+        "popularityScore": 1716642155.0,
+        "upvoted_by": [],
+        "upvotes_count": 0,
+        "downvoted_by": [],
+        "downvotes_count": 0,
+        "post_content": {
+            "postUri": "PhpxBLyp8qc",
+            "shortcode": "PhpxBLyp8qc",
+            "caption": "Rains to Lash Karnataka for 3 Days | Bengaluru rains | Namma Kannada News",
+            "description": "Rains to Lash Karnataka for 3 Days | Bengaluru rains | Namma Kannada News\n\nNamma Kannada TV access to complete local news from Karnataka \r\n,brings you the latest Kannada News Politics, Events, Features, Cinema, Entertainment, Art, from around the Karnataka And India,Karnataka Pilitics or The politics of Karnataka is represented by three major political parties, the Indian National Congress, JDS the Janata Dal (Secular) and the BJP Bharatiya Janata Party.\r\n\r\nKarnataka consists of 28 parliamentary constituencies from which 28 members of parliament get elected to the Lok Sabha.",
+            "platform_videoLink": "https://www.youtube.com/watch?v=PhpxBLyp8qc",
+            "platform_viewsCount": 12178.0,
+            "platform_likesCount": 119.0,
+            "platform_dislikesCount": 0,
+            "platform_commentsCount": 0.0,
+            "thumbnail": "https://i.ytimg.com/vi/PhpxBLyp8qc/mqdefault.jpg",
+            "imageList": [
+                "https://i.ytimg.com/vi/PhpxBLyp8qc/default.jpg",
+                "https://i.ytimg.com/vi/PhpxBLyp8qc/mqdefault.jpg",
+                "https://i.ytimg.com/vi/PhpxBLyp8qc/hqdefault.jpg",
+                "https://i.ytimg.com/vi/PhpxBLyp8qc/sddefault.jpg"
+            ],
+            "platform_duration": "00:01:30"
+        },
+        "short_video": false,
+        "privacyStatus": "public",
+        "embeddable": true,
+        "isNative": true,
+        "post_lang": "English",
+        "self_liked": false,
+        "self_disliked": false,
+        "favourite": false
+    }
+]

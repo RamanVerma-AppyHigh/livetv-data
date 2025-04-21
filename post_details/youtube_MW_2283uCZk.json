@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "67b5a5d101653ce7949b90e8",
+        "key_id": "youtube_MW_2283uCZk",
+        "poster_link": "https://i.ytimg.com/vi/MW_2283uCZk/hqdefault.jpg",
+        "isVideo": true,
+        "platform": "youtube",
+        "publisherID": "602102ad2ab9b771fa7e1fbc",
+        "createdAt": "2025-02-19 15:05:08.483000",
+        "updatedAt": "2025-02-19 15:05:08.483000",
+        "d_source": "y_api",
+        "publisherID_JSON": "youtube_UCKq2DnWHQselvzr0UrRyLSg",
+        "category_JSON": [
+            "News"
+        ],
+        "category": [
+            "5e18407ccc52c4f89e56245e"
+        ],
+        "country": [
+            "IN"
+        ],
+        "postDate": "2025-02-17 02:13:53",
+        "popularityScore": 1739758433.0,
+        "upvoted_by": [],
+        "upvotes_count": 0,
+        "downvoted_by": [],
+        "downvotes_count": 0,
+        "post_content": {
+            "postUri": "MW_2283uCZk",
+            "shortcode": "MW_2283uCZk",
+            "caption": "Suyadheena Seithi Paarvai - 17-02-2025",
+            "description": "Suyadheena Seithi Paarvai - 17-02-2025\n #VasanthamTVNews #vasanthamnews \n\nSubscribe Our Channel: http://bit.ly/SubscribeVasanthamNews\nWatch More News on : https://www.itnnews.lk/ta/news-bulletin/\nOfficial Website: https://www.itnnews.lk\nLike us on Facebook: https://www.facebook.com/itnnews.lk\nFollow us on Twitter: https://twitter.com/itnnewslk\n\nVasantham News | Copyrighted \u00a9 ITN Sri Lanka | www.itnnews.lk",
+            "platform_videoLink": "https://www.youtube.com/watch?v=MW_2283uCZk",
+            "platform_viewsCount": 1202.0,
+            "platform_likesCount": 21.0,
+            "platform_dislikesCount": 0,
+            "platform_commentsCount": 0.0,
+            "thumbnail": "https://i.ytimg.com/vi/MW_2283uCZk/mqdefault.jpg",
+            "imageList": [
+                "https://i.ytimg.com/vi/MW_2283uCZk/default.jpg",
+                "https://i.ytimg.com/vi/MW_2283uCZk/mqdefault.jpg",
+                "https://i.ytimg.com/vi/MW_2283uCZk/hqdefault.jpg",
+                "https://i.ytimg.com/vi/MW_2283uCZk/sddefault.jpg",
+                "https://i.ytimg.com/vi/MW_2283uCZk/maxresdefault.jpg"
+            ],
+            "platform_duration": "00:57:23"
+        },
+        "short_video": false,
+        "privacyStatus": "public",
+        "embeddable": true,
+        "isNative": true,
+        "post_lang": "English",
+        "self_liked": false,
+        "self_disliked": false,
+        "favourite": false
+    }
+]
