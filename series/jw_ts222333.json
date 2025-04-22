@@ -1,0 +1,208 @@
+{
+    "series_details": {
+        "series_id": "jw_ts222333",
+        "original_release_year": 2021,
+        "object_type": "show",
+        "offers": [
+            {
+                "offers": [
+                    {
+                        "monetization_type": "flatrate"
+                    },
+                    {
+                        "jw_entity_id": "ts222333",
+                        "type": "aggregated",
+                        "monetization_type": "flatrate",
+                        "provider_id": "jw_IN_8",
+                        "package_short_name": "nfx",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "http://www.netflix.com/title/81435684",
+                            "deeplink_web": "http://www.netflix.com/watch/81435684",
+                            "deeplink_rokuos": "launch/12?contentID=81435684&MediaType=show"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "element_count": 1,
+                        "new_element_count": 1,
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/207360008/s100",
+                        "platform_name": "Netflix"
+                    }
+                ]
+            }
+        ],
+        "poster": "https://images.justwatch.com/poster/255388636/s166",
+        "backdrop": "https://images.justwatch.com/backdrop/256954772/s640/",
+        "title": "Arcane",
+        "short_description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+        "clips": [
+            {
+                "type": "trailer",
+                "provider": "youtube",
+                "external_id": "fXmAurh012s",
+                "name": "Arcane | Official Trailer | Netflix",
+                "url": "https://www.youtube.com/watch?v=fXmAurh012s"
+            },
+            {
+                "type": "trailer",
+                "provider": "youtube",
+                "external_id": "3Svs_hl897c",
+                "name": "Arcane | Final Trailer | Netflix",
+                "url": "https://www.youtube.com/watch?v=3Svs_hl897c"
+            },
+            {
+                "type": "teaser",
+                "provider": "youtube",
+                "external_id": "Nu9HTOIUxLk",
+                "name": "Arcane: Season 2 Announcement",
+                "url": "https://www.youtube.com/watch?v=Nu9HTOIUxLk"
+            },
+            {
+                "type": "teaser",
+                "provider": "youtube",
+                "external_id": "IA-v_LB3Qpc",
+                "name": "Arcane: Animated Series Announcement | Riot Pls: 10th Anniversary Edition - League of Legends",
+                "url": "https://www.youtube.com/watch?v=IA-v_LB3Qpc"
+            },
+            {
+                "type": "teaser",
+                "provider": "youtube",
+                "external_id": "_WtVfkTGFvo",
+                "name": "Arcane | Official Announcement | Netflix",
+                "url": "https://www.youtube.com/watch?v=_WtVfkTGFvo"
+            }
+        ],
+        "genres": [
+            "Science-Fiction",
+            "Action & Adventure",
+            "Drama",
+            "Fantasy",
+            "Animation"
+        ],
+        "credits": [
+            {
+                "character_name": "Vi (voice)",
+                "name": "Hailee Steinfeld"
+            },
+            {
+                "character_name": "Jinx (voice)",
+                "name": "Ella Purnell"
+            },
+            {
+                "character_name": "Jayce (voice)",
+                "name": "Kevin Alejandro"
+            },
+            {
+                "character_name": "Silco (voice)",
+                "name": "Jason Spisak"
+            },
+            {
+                "character_name": "Mel (voice)",
+                "name": "Toks Olagundoye"
+            },
+            {
+                "character_name": "Viktor (voice)",
+                "name": "Harry Lloyd"
+            },
+            {
+                "name": "Pascal Charrue"
+            },
+            {
+                "name": "J\u00e9r\u00f4me Combe"
+            },
+            {
+                "name": "Alex Yee"
+            },
+            {
+                "name": "Melinda Wunsch Dilger"
+            },
+            {
+                "name": "Ash Brannon"
+            },
+            {
+                "name": "Arnaud Delord"
+            },
+            {
+                "name": "Jane Chung"
+            },
+            {
+                "name": "Christian Linke"
+            },
+            {
+                "name": "Marc Merrill"
+            },
+            {
+                "name": "Brandon Beck"
+            },
+            {
+                "name": "Thomas Vu"
+            },
+            {
+                "name": "Alex Seaver"
+            },
+            {
+                "name": "Alexander Temple"
+            }
+        ],
+        "similar": [
+            {
+                "media_id": "jw_ts4696",
+                "title": "Fate/stay night [Unlimited Blade Works]",
+                "poster": "https://images.justwatch.com/poster/142272617/s166"
+            },
+            {
+                "media_id": "jw_ts20439",
+                "title": "Gravity Falls",
+                "poster": "https://images.justwatch.com/poster/174956307/s166"
+            },
+            {
+                "media_id": "jw_ts219423",
+                "title": "Masters of the Universe: Revelation",
+                "poster": "https://images.justwatch.com/poster/248805557/s166"
+            },
+            {
+                "media_id": "jw_ts20233",
+                "title": "Rick and Morty",
+                "poster": "https://images.justwatch.com/poster/8580203/s166"
+            },
+            {
+                "media_id": "jw_ts281929",
+                "title": "Invincible",
+                "poster": "https://images.justwatch.com/poster/242001601/s166"
+            },
+            {
+                "media_id": "jw_ts86474",
+                "title": "Loki",
+                "poster": "https://images.justwatch.com/poster/245222645/s166"
+            },
+            {
+                "media_id": "jw_ts89837",
+                "title": "Hawkeye",
+                "poster": "https://images.justwatch.com/poster/258645940/s166"
+            },
+            {
+                "media_id": "jw_ts251262",
+                "title": "Star Wars: The Bad Batch",
+                "poster": "https://images.justwatch.com/poster/244455889/s166"
+            },
+            {
+                "media_id": "jw_ts220305",
+                "title": "Squid Game",
+                "poster": "https://images.justwatch.com/poster/250035263/s166"
+            },
+            {
+                "media_id": "jw_ts57140",
+                "title": "The Orville",
+                "poster": "https://images.justwatch.com/poster/13690108/s166"
+            }
+        ],
+        "imdb": {
+            "rating_value": 9
+        },
+        "runtime": 41
+    },
+    "similar_series": []
+}

@@ -1,0 +1,418 @@
+{
+    "movie_details": {
+        "movie_id": "jw_tm420429",
+        "original_release_year": 2020,
+        "offers": [
+            {
+                "offers": [
+                    {
+                        "monetization_type": "buy"
+                    },
+                    {
+                        "jw_entity_id": "tm420429",
+                        "monetization_type": "buy",
+                        "provider_id": "jw_IN_2",
+                        "package_short_name": "itu",
+                        "retail_price": 690,
+                        "last_change_retail_price": 190,
+                        "last_change_difference": 500,
+                        "last_change_percent": 263.1579,
+                        "last_change_date": "2021-11-02",
+                        "last_change_date_provider_id": "2021-11-02_2",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://tv.apple.com/in/movie/witches-the/umc.cmc.5hzyxz0ndlafat0oq9ydmfcvw?playableId=tvs.sbd.9001%3A1536067197"
+                        },
+                        "presentation_type": [
+                            "4k",
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/190848813/s100",
+                        "platform_name": "Apple iTunes"
+                    }
+                ]
+            },
+            {
+                "offers": [
+                    {
+                        "monetization_type": "rent"
+                    },
+                    {
+                        "jw_entity_id": "tm420429",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_2",
+                        "package_short_name": "itu",
+                        "retail_price": 150,
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://tv.apple.com/in/movie/witches-the/umc.cmc.5hzyxz0ndlafat0oq9ydmfcvw?playableId=tvs.sbd.9001%3A1536067197",
+                            "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fin%2Fmovie%2Fwitches-the%2Fumc.cmc.5hzyxz0ndlafat0oq9ydmfcvw%3FplayableId%3Dtvs.sbd.9001%253A1536067197&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "4k",
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/190848813/s100",
+                        "platform_name": "Apple iTunes"
+                    },
+                    {
+                        "jw_entity_id": "tm420429",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_3",
+                        "package_short_name": "ply",
+                        "retail_price": 150,
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://play.google.com/store/movies/details/Roald_Dahl_s_The_Witches?gl=IN&hl=en&id=vomh1chM7gY.P"
+                        },
+                        "presentation_type": [
+                            "4k"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/169478387/s100",
+                        "platform_name": "Google Play Movies"
+                    },
+                    {
+                        "jw_entity_id": "tm420429",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_192",
+                        "package_short_name": "yot",
+                        "retail_price": 150,
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://www.youtube.com/watch?v=k0m-JtHP4Ow"
+                        },
+                        "presentation_type": [
+                            "4k"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/59562423/s100",
+                        "platform_name": "YouTube"
+                    },
+                    {
+                        "jw_entity_id": "tm420429",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_437",
+                        "package_short_name": "hgp",
+                        "retail_price": 150,
+                        "last_change_retail_price": 120,
+                        "last_change_difference": 30,
+                        "last_change_percent": 25,
+                        "last_change_date": "2022-01-06",
+                        "last_change_date_provider_id": "2022-01-06_437",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://www.hungama.com/movie/the-witches/64666116/"
+                        },
+                        "presentation_type": [
+                            "hd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/201704934/s100",
+                        "platform_name": "Hungama Play"
+                    }
+                ]
+            },
+            {
+                "offers": [
+                    {
+                        "monetization_type": "flatrate"
+                    },
+                    {
+                        "jw_entity_id": "tm420429",
+                        "monetization_type": "flatrate",
+                        "provider_id": "jw_IN_119",
+                        "package_short_name": "prv",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3de6e15b-ed94-4c79-8428-4025c728cc2a",
+                            "deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.3de6e15b-ed94-4c79-8428-4025c728cc2a",
+                            "deeplink_rokuos": "launch/13?contentID=B095MTD1J7&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/52449861/s100",
+                        "platform_name": "Amazon Prime Video"
+                    }
+                ]
+            }
+        ],
+        "poster": "https://images.justwatch.com/poster/217510851/s166",
+        "backdrop": "https://images.justwatch.com/backdrop/230050329/s640/",
+        "title": "Roald Dahl's The Witches",
+        "short_description": "In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world's Grand High Witch has gathered.",
+        "clips": [
+            {
+                "type": "trailer",
+                "provider": "youtube",
+                "external_id": "9nlhmJF5FNI",
+                "name": "The Witches - Official Trailer",
+                "url": "https://www.youtube.com/watch?v=9nlhmJF5FNI"
+            }
+        ],
+        "genres": [
+            "Fantasy",
+            "Horror",
+            "Kids & Family",
+            "Comedy"
+        ],
+        "credits": [
+            {
+                "character_name": "Grand High Witch",
+                "name": "Anne Hathaway"
+            },
+            {
+                "character_name": "Grandma",
+                "name": "Octavia Spencer"
+            },
+            {
+                "character_name": "Mr Stringer",
+                "name": "Stanley Tucci"
+            },
+            {
+                "character_name": "Hero Boy",
+                "name": "Jahzir Bruno"
+            },
+            {
+                "character_name": "Older Hero (voice)",
+                "name": "Chris Rock"
+            },
+            {
+                "character_name": "Bruno Jenkins",
+                "name": "Codie-Lei Eastick"
+            },
+            {
+                "character_name": "Daisy / Mary (voice)",
+                "name": "Kristin Chenoweth"
+            },
+            {
+                "character_name": "Reginald",
+                "name": "Brian Bovell"
+            },
+            {
+                "character_name": "Mr Jenkins",
+                "name": "Charles Edwards"
+            },
+            {
+                "character_name": "Mrs Jenkins",
+                "name": "Morgana Robinson"
+            },
+            {
+                "character_name": "Zelda",
+                "name": "Josette Simon"
+            },
+            {
+                "character_name": "Consuella",
+                "name": "Eugenia Caruso"
+            },
+            {
+                "character_name": "Esmerelda",
+                "name": "Ana Maria Maskell"
+            },
+            {
+                "character_name": "Saoirse",
+                "name": "Orla O'Rourke"
+            },
+            {
+                "character_name": "Lana",
+                "name": "Penny Lisle"
+            },
+            {
+                "character_name": "Sous Chef",
+                "name": "Simon Manyonda"
+            },
+            {
+                "character_name": "Esmeralda",
+                "name": "Amber Flanagan"
+            },
+            {
+                "character_name": "Raymond",
+                "name": "Jonathan Livingstone"
+            },
+            {
+                "character_name": "Chef",
+                "name": "Philippe Spall"
+            },
+            {
+                "character_name": "Samantha",
+                "name": "Eurydice El-Etr"
+            },
+            {
+                "character_name": "Witch",
+                "name": "Katie Hardwick"
+            },
+            {
+                "character_name": "Witch",
+                "name": "Abi Adeyemi"
+            },
+            {
+                "character_name": "Danny Wests (uncredited)",
+                "name": "Zeke Taylor"
+            },
+            {
+                "character_name": "Maitre'D - Luther",
+                "name": "Paul Leonard"
+            },
+            {
+                "character_name": "Officer Perry",
+                "name": "Jon Prophet"
+            },
+            {
+                "character_name": "Young Grandma",
+                "name": "Miranda Sarfo Peprah"
+            },
+            {
+                "character_name": "Waiter",
+                "name": "Angus Wright"
+            },
+            {
+                "character_name": "Basketball Kid",
+                "name": "Joseph Zinyemba"
+            },
+            {
+                "character_name": "Chambermaid",
+                "name": "Me'sha Bryan"
+            },
+            {
+                "character_name": "Witch",
+                "name": "Anastasia Zabarchuk"
+            },
+            {
+                "character_name": "Bellman",
+                "name": "Ken Nwosu"
+            },
+            {
+                "character_name": "Alice's Mum",
+                "name": "Vivienne Acheampong"
+            },
+            {
+                "character_name": "Alice's Dad",
+                "name": "Sobowale Antonio Bamgbose"
+            },
+            {
+                "character_name": "Grandma's Mother",
+                "name": "Lunga Skosana"
+            },
+            {
+                "character_name": "Jesup",
+                "name": "Dempsey Bovell"
+            },
+            {
+                "character_name": "Chief Doorman",
+                "name": "Cyril Nri"
+            },
+            {
+                "name": "Robert Zemeckis"
+            },
+            {
+                "name": "Jeremiah O'Driscoll"
+            },
+            {
+                "name": "Michael Siegel"
+            },
+            {
+                "name": "Jacqueline Levine"
+            },
+            {
+                "name": "Marianne Jenkins"
+            },
+            {
+                "name": "Gideon Simeloff"
+            },
+            {
+                "name": "Alan Silvestri"
+            },
+            {
+                "name": "Guillermo del Toro"
+            },
+            {
+                "name": "Jack Rapke"
+            },
+            {
+                "name": "Alfonso Cuar\u00f3n"
+            },
+            {
+                "name": "Robert Zemeckis"
+            },
+            {
+                "name": "Luke Kelly"
+            },
+            {
+                "name": "Gary Freeman"
+            },
+            {
+                "name": "Robert Zemeckis"
+            },
+            {
+                "name": "Kenya Barris"
+            },
+            {
+                "name": "Guillermo del Toro"
+            }
+        ],
+        "similar": [
+            {
+                "media_id": "jw_tm141571",
+                "title": "Goosebumps",
+                "poster": "https://images.justwatch.com/poster/10137357/s166"
+            },
+            {
+                "media_id": "jw_tm856949",
+                "title": "PAW Patrol: The Movie",
+                "poster": "https://images.justwatch.com/poster/249449213/s166"
+            },
+            {
+                "media_id": "jw_tm138262",
+                "title": "Pixels",
+                "poster": "https://images.justwatch.com/poster/8719913/s166"
+            },
+            {
+                "media_id": "jw_tm418189",
+                "title": "The Addams Family",
+                "poster": "https://images.justwatch.com/poster/154102888/s166"
+            },
+            {
+                "media_id": "jw_tm474986",
+                "title": "Mortal Kombat",
+                "poster": "https://images.justwatch.com/poster/244909162/s166"
+            },
+            {
+                "media_id": "jw_tm323106",
+                "title": "The Boss Baby: Family Business",
+                "poster": "https://images.justwatch.com/poster/238626045/s166"
+            },
+            {
+                "media_id": "jw_tm989859",
+                "title": "Diary of a Wimpy Kid",
+                "poster": "https://images.justwatch.com/poster/256713456/s166"
+            },
+            {
+                "media_id": "jw_tm132278",
+                "title": "Hotel Transylvania 2",
+                "poster": "https://images.justwatch.com/poster/11860333/s166"
+            },
+            {
+                "media_id": "jw_tm355775",
+                "title": "Ron's Gone Wrong",
+                "poster": "https://images.justwatch.com/poster/250838813/s166"
+            },
+            {
+                "media_id": "jw_tm69164",
+                "title": "Hotel Transylvania",
+                "poster": "https://images.justwatch.com/poster/8828086/s166"
+            }
+        ],
+        "imdb": {
+            "rating_value": 5.3
+        },
+        "runtime": 106
+    },
+    "similar_movies": []
+}

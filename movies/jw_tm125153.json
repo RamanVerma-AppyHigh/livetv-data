@@ -1,0 +1,447 @@
+{
+    "movie_details": {
+        "movie_id": "jw_tm125153",
+        "original_release_year": 1992,
+        "runtime": 156,
+        "genres": [
+            "Drama"
+        ],
+        "credits": [
+            {
+                "character_name": "Lieutenant Colonel Frank Slade",
+                "name": "Al Pacino"
+            },
+            {
+                "character_name": "Charlie Simms",
+                "name": "Chris O'Donnell"
+            },
+            {
+                "character_name": "Mr. Trask",
+                "name": "James Rebhorn"
+            },
+            {
+                "character_name": "Donna",
+                "name": "Gabrielle Anwar"
+            },
+            {
+                "character_name": "George Willis, Jr.",
+                "name": "Philip Seymour Hoffman"
+            },
+            {
+                "character_name": "Randy",
+                "name": "Bradley Whitford"
+            },
+            {
+                "character_name": "W.R. Slade",
+                "name": "Richard Venture"
+            },
+            {
+                "character_name": "Mrs. Hunsaker",
+                "name": "June Squibb"
+            },
+            {
+                "character_name": "Christine Downes",
+                "name": "Frances Conroy"
+            },
+            {
+                "character_name": "Gretchen",
+                "name": "Rochelle Oliver"
+            },
+            {
+                "character_name": "Garry",
+                "name": "Tom Riis Farrell"
+            },
+            {
+                "character_name": "Harry Havemeyer",
+                "name": "Nicholas Sadler"
+            },
+            {
+                "character_name": "Trent Potter",
+                "name": "Todd Louiso"
+            },
+            {
+                "character_name": "Manny",
+                "name": "Gene Canfield"
+            },
+            {
+                "character_name": "Officer Gore",
+                "name": "Ron Eldard"
+            },
+            {
+                "character_name": "Karen Rossi",
+                "name": "Sally Murphy"
+            },
+            {
+                "character_name": "Donny Rossi",
+                "name": "Michael Santoro"
+            },
+            {
+                "character_name": "Sofia",
+                "name": "Anh Duong"
+            },
+            {
+                "character_name": "Freddie Bisco",
+                "name": "Leonard Gaines"
+            },
+            {
+                "character_name": "Michael",
+                "name": "David Lansbury"
+            },
+            {
+                "character_name": "George Willis, Sr.",
+                "name": "Baxter Harris"
+            },
+            {
+                "character_name": "Flight Attendant",
+                "name": "Francie Swift"
+            },
+            {
+                "character_name": "Oak Room Maitre D'",
+                "name": "William Beckwith"
+            },
+            {
+                "character_name": "Bootblack",
+                "name": "Peter Carew"
+            },
+            {
+                "character_name": "Man in Hotel Lobby (uncredited)",
+                "name": "Dan Gifford"
+            },
+            {
+                "character_name": "Oak Room Patron (uncredited)",
+                "name": "Jack Mulcahy"
+            },
+            {
+                "character_name": "Gail",
+                "name": "Margaret Eginton"
+            },
+            {
+                "character_name": "Jimmy Jameson",
+                "name": "Matt Smith"
+            },
+            {
+                "character_name": "Bellhop",
+                "name": "Joseph Palmas"
+            },
+            {
+                "character_name": "Oak Room Waiter",
+                "name": "Michael Simon"
+            },
+            {
+                "character_name": "Skycap",
+                "name": "Mansoor Najee-ullah"
+            },
+            {
+                "character_name": "Ballroom Waiter",
+                "name": "J.T. Cromwell"
+            },
+            {
+                "character_name": "Doorman",
+                "name": "Paul Stocker"
+            },
+            {
+                "character_name": "Cab Driver",
+                "name": "Mike Lisenco"
+            },
+            {
+                "character_name": "Night Maid",
+                "name": "Divina Cook"
+            },
+            {
+                "character_name": "Barber",
+                "name": "Russell Gibson"
+            },
+            {
+                "character_name": "Student",
+                "name": "Carlo Giuliano"
+            },
+            {
+                "character_name": "Waldorf Guest",
+                "name": "George Grafas"
+            },
+            {
+                "character_name": "Student",
+                "name": "Luke L. Hansen"
+            },
+            {
+                "character_name": "Student",
+                "name": "Kenneth Kopolovicz"
+            },
+            {
+                "character_name": "Student",
+                "name": "Eric Reid Schroeder"
+            },
+            {
+                "character_name": "Airport Traveler",
+                "name": "Lucy Smith"
+            },
+            {
+                "character_name": "Student (uncredited)",
+                "name": "Paul Zimmerman"
+            },
+            {
+                "name": "Amy Sayres"
+            },
+            {
+                "name": "Martin Brest"
+            },
+            {
+                "name": "Harvey Rosenstock"
+            },
+            {
+                "name": "Michael Tronick"
+            },
+            {
+                "name": "William Steinkamp"
+            },
+            {
+                "name": "Ronald L. Schwary"
+            },
+            {
+                "name": "Thomas Newman"
+            },
+            {
+                "name": "Martin Brest"
+            },
+            {
+                "name": "Angelo P. Graham"
+            },
+            {
+                "name": "Bo Goldman"
+            }
+        ],
+        "imdb": {
+            "rating_value": 8
+        },
+        "offers": [
+            {
+                "offers": [
+                    {
+                        "monetization_type": "buy"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "buy",
+                        "provider_id": "jw_IN_2",
+                        "package_short_name": "itu",
+                        "retail_price": 490,
+                        "last_change_retail_price": 290,
+                        "last_change_difference": 200,
+                        "last_change_percent": 68.965515,
+                        "last_change_date": "2022-08-07",
+                        "last_change_date_provider_id": "2022-08-07_2",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://tv.apple.com/in/movie/scent-of-a-woman/umc.cmc.4ktjsv9c9j7n7daecbfflgd57?playableId=tvs.sbd.9001%3A692267728",
+                            "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fin%2Fmovie%2Fscent-of-a-woman%2Fumc.cmc.4ktjsv9c9j7n7daecbfflgd57%3FplayableId%3Dtvs.sbd.9001%253A692267728&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/190848813/s100",
+                        "platform_name": "Apple iTunes"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "buy",
+                        "provider_id": "jw_IN_3",
+                        "package_short_name": "ply",
+                        "retail_price": 490,
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://play.google.com/store/movies/details/Scent_of_a_Woman?gl=IN&hl=en&id=R8pchScZGmQ"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/169478387/s100",
+                        "platform_name": "Google Play Movies"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "buy",
+                        "provider_id": "jw_IN_192",
+                        "package_short_name": "yot",
+                        "retail_price": 490,
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://www.youtube.com/results?search_query=Scent+of+a+Woman%2Bmovie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/59562423/s100",
+                        "platform_name": "YouTube"
+                    }
+                ]
+            },
+            {
+                "offers": [
+                    {
+                        "monetization_type": "rent"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_2",
+                        "package_short_name": "itu",
+                        "retail_price": 120,
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://tv.apple.com/in/movie/scent-of-a-woman/umc.cmc.4ktjsv9c9j7n7daecbfflgd57?playableId=tvs.sbd.9001%3A692267728",
+                            "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fin%2Fmovie%2Fscent-of-a-woman%2Fumc.cmc.4ktjsv9c9j7n7daecbfflgd57%3FplayableId%3Dtvs.sbd.9001%253A692267728&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/190848813/s100",
+                        "platform_name": "Apple iTunes"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_3",
+                        "package_short_name": "ply",
+                        "retail_price": 99,
+                        "last_change_retail_price": 140,
+                        "last_change_difference": -41,
+                        "last_change_percent": -29.285715,
+                        "last_change_date": "2022-08-12",
+                        "last_change_date_provider_id": "2022-08-12_3",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://play.google.com/store/movies/details/Scent_of_a_Woman?gl=IN&hl=en&id=R8pchScZGmQ"
+                        },
+                        "presentation_type": [
+                            "hd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/169478387/s100",
+                        "platform_name": "Google Play Movies"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_10",
+                        "package_short_name": "amz",
+                        "retail_price": 99,
+                        "last_change_retail_price": 120,
+                        "last_change_difference": -21,
+                        "last_change_percent": -17.5,
+                        "last_change_date": "2022-04-15",
+                        "last_change_date_provider_id": "2022-04-15_10",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fcb76779-47d1-e71d-1ecc-7192f86ba6bc",
+                            "deeplink_web": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.fcb76779-47d1-e71d-1ecc-7192f86ba6bc",
+                            "deeplink_rokuos": "launch/13?contentID=B0829P8L8X&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/430993/s100",
+                        "platform_name": "Amazon Video"
+                    },
+                    {
+                        "jw_entity_id": "tm125153",
+                        "monetization_type": "rent",
+                        "provider_id": "jw_IN_192",
+                        "package_short_name": "yot",
+                        "retail_price": 99,
+                        "last_change_retail_price": 140,
+                        "last_change_difference": -41,
+                        "last_change_percent": -29.285715,
+                        "last_change_date": "2022-08-12",
+                        "last_change_date_provider_id": "2022-08-12_192",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "https://www.youtube.com/results?search_query=Scent+of+a+Woman%2Bmovie"
+                        },
+                        "presentation_type": [
+                            "hd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/59562423/s100",
+                        "platform_name": "YouTube"
+                    }
+                ]
+            }
+        ],
+        "poster": "https://images.justwatch.com/poster/8727958/s166",
+        "title": "Scent of a Woman",
+        "short_description": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+        "clips": [
+            {
+                "type": "trailer",
+                "provider": "youtube",
+                "external_id": "3GUvsJc3vvE",
+                "name": "Scent of a Woman - Trailer",
+                "url": "https://www.youtube.com/watch?v=3GUvsJc3vvE"
+            }
+        ],
+        "similar": [
+            {
+                "media_id": "jw_tm11864",
+                "title": "Pocahontas",
+                "poster": "https://images.justwatch.com/poster/8643843/s166"
+            },
+            {
+                "media_id": "jw_tm42409",
+                "title": "Fight Club",
+                "poster": "https://images.justwatch.com/poster/8668241/s166"
+            },
+            {
+                "media_id": "jw_tm131198",
+                "title": "Rocky IV",
+                "poster": "https://images.justwatch.com/poster/34684371/s166"
+            },
+            {
+                "media_id": "jw_tm119206",
+                "title": "The Shawshank Redemption",
+                "poster": "https://images.justwatch.com/poster/8652078/s166"
+            },
+            {
+                "media_id": "jw_tm191110",
+                "title": "Titanic",
+                "poster": "https://images.justwatch.com/poster/8707318/s166"
+            },
+            {
+                "media_id": "jw_tm19698",
+                "title": "Predator",
+                "poster": "https://images.justwatch.com/poster/8542795/s166"
+            },
+            {
+                "media_id": "jw_tm191716",
+                "title": "Good Will Hunting",
+                "poster": "https://images.justwatch.com/poster/8707541/s166"
+            },
+            {
+                "media_id": "jw_tm1217553",
+                "title": "Top Gun",
+                "poster": "https://images.justwatch.com/poster/18497204/s166"
+            },
+            {
+                "media_id": "jw_tm54285",
+                "title": "The Green Mile",
+                "poster": "https://images.justwatch.com/poster/180593085/s166"
+            },
+            {
+                "media_id": "jw_tm148125",
+                "title": "The Godfather: Part III",
+                "poster": "https://images.justwatch.com/poster/8712611/s166"
+            }
+        ],
+        "backdrop": "https://images.justwatch.com/backdrop/175714200/s640/"
+    },
+    "similar_movies": []
+}

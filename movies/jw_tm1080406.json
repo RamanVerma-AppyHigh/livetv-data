@@ -1,0 +1,215 @@
+{
+    "movie_details": {
+        "movie_id": "jw_tm1080406",
+        "original_release_year": 2021,
+        "offers": [
+            {
+                "offers": [
+                    {
+                        "monetization_type": "flatrate"
+                    },
+                    {
+                        "jw_entity_id": "tm1080406",
+                        "monetization_type": "flatrate",
+                        "provider_id": "jw_IN_8",
+                        "package_short_name": "nfx",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "http://www.netflix.com/title/81246529",
+                            "deeplink_web": "http://www.netflix.com/watch/81246529",
+                            "deeplink_rokuos": "launch/12?contentID=81246529&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/207360008/s100",
+                        "platform_name": "Netflix"
+                    },
+                    {
+                        "jw_entity_id": "tm1080406",
+                        "monetization_type": "flatrate",
+                        "provider_id": "jw_IN_175",
+                        "package_short_name": "nfk",
+                        "currency": "INR",
+                        "urls": {
+                            "standard_web": "http://www.netflix.com/title/81246529",
+                            "deeplink_web": "http://www.netflix.com/watch/81246529",
+                            "deeplink_rokuos": "launch/12?contentID=81246529&MediaType=movie"
+                        },
+                        "presentation_type": [
+                            "hd",
+                            "sd"
+                        ],
+                        "country": "IN",
+                        "icon_url": "https://images.justwatch.com/icon/14385750/s100",
+                        "platform_name": "Netflix Kids"
+                    }
+                ]
+            }
+        ],
+        "poster": "https://images.justwatch.com/poster/248830007/s166",
+        "backdrop": "https://images.justwatch.com/backdrop/253339377/s640/",
+        "title": "Barbie: Big City, Big Dreams",
+        "short_description": "Barbie swaps the sunny shores of Malibu for the bright lights of Broadway to attend an excusive summer performing arts program and meets\u2026Barbie!  Fast friends, the two discover they share more than a name as they explore New York City and all the amazing things they have in common.  As they compete for the coveted once-in-a-lifetime Spotlight Solo from Times Square, the friends discover competition isn\u2019t all about winning, it\u2019s about striving to be your best, overcoming doubts, and sharing the spotlight.",
+        "clips": [
+            {
+                "type": "trailer",
+                "provider": "youtube",
+                "external_id": "npeZdlb-L4o",
+                "name": "@Barbie | Barbie Big City, Big Dreams Official Movie Trailer",
+                "url": "https://www.youtube.com/watch?v=npeZdlb-L4o"
+            },
+            {
+                "type": "trailer",
+                "provider": "youtube",
+                "external_id": "E3bVXNJGG1Q",
+                "name": "Barbie Big City Big Dreams Official Trailer | Coming to UK cinemas from 20th August 2021",
+                "url": "https://www.youtube.com/watch?v=E3bVXNJGG1Q"
+            },
+            {
+                "type": "featurette",
+                "provider": "youtube",
+                "external_id": "AMcM2KtAKZA",
+                "name": "@Barbie | MEET MY NEW FRIEND BARBIE! | Barbie Vlogs",
+                "url": "https://www.youtube.com/watch?v=AMcM2KtAKZA"
+            },
+            {
+                "type": "teaser",
+                "provider": "youtube",
+                "external_id": "FeLXaBgJ9Qg",
+                "name": "@Barbie | NEW Barbie Big City, Big Dreams!\u2728 Movie Teaser",
+                "url": "https://www.youtube.com/watch?v=FeLXaBgJ9Qg"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Kids & Family"
+        ],
+        "credits": [
+            {
+                "character_name": "Barbie Roberts (voice)",
+                "name": "America Young"
+            },
+            {
+                "character_name": "Barbie 'Brooklyn' Roberts (voice)",
+                "name": "Amber Eliese May"
+            },
+            {
+                "character_name": "George Roberts (voice)",
+                "name": "Greg Chun"
+            },
+            {
+                "character_name": "Percussionist voice)",
+                "name": "Daniel Mk Cohen"
+            },
+            {
+                "character_name": "Skipper Roberts (voice)",
+                "name": "Kirsten Day"
+            },
+            {
+                "character_name": "Emmie Lee (voice)",
+                "name": "Giselle Fern\u00e1ndez"
+            },
+            {
+                "character_name": "Margaret Roberts (voice)",
+                "name": "Lisa Fuson"
+            },
+            {
+                "character_name": "Daisy (voice)",
+                "name": "Emma Adele Galvin"
+            },
+            {
+                "character_name": "Stacie Roberts (voice)",
+                "name": "Cassandra Morris"
+            },
+            {
+                "character_name": "Ken (voice)",
+                "name": "Ritesh Rajan"
+            },
+            {
+                "character_name": "Chelsea Roberts (voice)",
+                "name": "Cassidy Naber"
+            },
+            {
+                "character_name": "Teresa (voice)",
+                "name": "Cristina Milizia"
+            },
+            {
+                "character_name": "Dean Morrison (voice)",
+                "name": "Dinora Walcott"
+            },
+            {
+                "character_name": "Mr. Miller (voice)",
+                "name": "Joshua Tomar"
+            },
+            {
+                "name": "Scott Pleydell-Pearce"
+            },
+            {
+                "name": "Christopher Keenan"
+            },
+            {
+                "name": "Kate Splaine"
+            }
+        ],
+        "similar": [
+            {
+                "media_id": "jw_tm434041",
+                "title": "Space Jam: A New Legacy",
+                "poster": "https://images.justwatch.com/poster/246446218/s166"
+            },
+            {
+                "media_id": "jw_tm305129",
+                "title": "Sing 2",
+                "poster": "https://images.justwatch.com/poster/254454783/s166"
+            },
+            {
+                "media_id": "jw_tm266656",
+                "title": "Mulan",
+                "poster": "https://images.justwatch.com/poster/166091963/s166"
+            },
+            {
+                "media_id": "jw_tm1020851",
+                "title": "Back to the Outback",
+                "poster": "https://images.justwatch.com/poster/256470616/s166"
+            },
+            {
+                "media_id": "jw_tm355775",
+                "title": "Ron's Gone Wrong",
+                "poster": "https://images.justwatch.com/poster/250838813/s166"
+            },
+            {
+                "media_id": "jw_tm375874",
+                "title": "Luca",
+                "poster": "https://images.justwatch.com/poster/244658839/s166"
+            },
+            {
+                "media_id": "jw_tm123342",
+                "title": "Fantastic Beasts and Where to Find Them",
+                "poster": "https://images.justwatch.com/poster/8728725/s166"
+            },
+            {
+                "media_id": "jw_tm323106",
+                "title": "The Boss Baby: Family Business",
+                "poster": "https://images.justwatch.com/poster/238626045/s166"
+            },
+            {
+                "media_id": "jw_tm858873",
+                "title": "Encanto",
+                "poster": "https://images.justwatch.com/poster/255949119/s166"
+            },
+            {
+                "media_id": "jw_tm1855",
+                "title": "Avengers: Endgame",
+                "poster": "https://images.justwatch.com/poster/118339636/s166"
+            }
+        ],
+        "imdb": {
+            "rating_value": 5.9
+        },
+        "runtime": 59
+    },
+    "similar_movies": []
+}
