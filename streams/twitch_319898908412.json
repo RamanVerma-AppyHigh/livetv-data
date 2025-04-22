@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UCPMXoxoNqWgAZGPPyoDpXNA/live_1672324422",
+        "isVisible": false,
+        "stream_id": "twitch_319898908412",
+        "channel_name": "ttvsleezygaming",
+        "game_name": "Call of Duty: Black Ops 6",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 14:12:10.454000",
+        "updatedAt": "2025-04-21 14:12:10.454000",
+        "postDate": "2025-04-21T08:37:53Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ttvsleezygaming-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/1672324422-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/ttvsleezygaming",
+            "platform_viewsCount": 31,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "\ud83d\udd34 Call Of Duty Black Ops 6! \ud83d\udc51 | !TikTok !YouTube !Discord |",
+            "description": "\ud83d\udd34 Call Of Duty Black Ops 6! \ud83d\udc51 | !TikTok !YouTube !Discord |"
+        },
+        "popularityScore": 1.0,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

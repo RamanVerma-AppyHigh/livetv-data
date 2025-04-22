@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC_vVy4OI86F0amXqFN_zTMg/live_502732",
+        "isVisible": false,
+        "stream_id": "twitch_319074547449",
+        "channel_name": "gojogodyt",
+        "game_name": "Garena Free Fire",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 18:12:10.211000",
+        "updatedAt": "2025-04-21 18:28:30.216000",
+        "postDate": "2025-04-21T12:41:05Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gojogodyt-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/gojogodyt",
+            "platform_viewsCount": 1,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "plz follow",
+            "description": "plz follow"
+        },
+        "popularityScore": 0.996453673563272,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

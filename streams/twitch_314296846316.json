@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC_vVy4OI86F0amXqFN_zTMg/live_502732",
+        "isVisible": true,
+        "stream_id": "twitch_314296846316",
+        "channel_name": "ayanfaisal777",
+        "game_name": "Garena Free Fire",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 13:12:09.336000",
+        "updatedAt": "2025-04-21 13:16:31.545000",
+        "postDate": "2025-04-21T07:37:03Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayanfaisal777-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/ayanfaisal777",
+            "platform_viewsCount": 1,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "Free fire cs rank push",
+            "description": "Free fire cs rank push"
+        },
+        "popularityScore": 1.0,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

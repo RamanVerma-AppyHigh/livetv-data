@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UCZtmNrG53nmbq-Ww2VJrxEQ/live_21779",
+        "isVisible": true,
+        "stream_id": "twitch_319063225849",
+        "channel_name": "crownie_lol",
+        "game_name": "League of Legends",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 14:28:09.989000",
+        "updatedAt": "2025-04-21 14:32:31.246000",
+        "postDate": "2025-04-21T08:38:33Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crownie_lol-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/21779-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/crownie_lol",
+            "platform_viewsCount": 1010,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "NO MIS TA STREAMA YOU CANT BE THIS FREAKY... WATCH ME\ud83d\ude08 SCRIMS1PMCET ! ! ! !operagx",
+            "description": "NO MIS TA STREAMA YOU CANT BE THIS FREAKY... WATCH ME\ud83d\ude08 SCRIMS1PMCET ! ! ! !operagx"
+        },
+        "popularityScore": 0.9917023486787099,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

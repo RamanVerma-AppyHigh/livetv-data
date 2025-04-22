@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UCXzGWycANrrfyBmzX6JMsvQ/live_33214",
+        "isVisible": true,
+        "stream_id": "twitch_314229147003",
+        "channel_name": "Smacko",
+        "game_name": "Fortnite",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 13:52:10.299000",
+        "updatedAt": "2025-04-21 14:12:29.855000",
+        "postDate": "2025-04-21T08:01:47Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_smacko-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/33214-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/Smacko",
+            "platform_viewsCount": 397,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "Zero Builds Solo Vs SQUADS \ud83d\udc51Use Code \"SMACKO\" #EpicPartner #AD",
+            "description": "Zero Builds Solo Vs SQUADS \ud83d\udc51Use Code \"SMACKO\" #EpicPartner #AD"
+        },
+        "popularityScore": 0.986692470740024,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

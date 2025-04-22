@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC_vVy4OI86F0amXqFN_zTMg/live_502732",
+        "isVisible": true,
+        "stream_id": "twitch_314294331371",
+        "channel_name": "sumit0_1",
+        "game_name": "Garena Free Fire",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 14:04:10.883000",
+        "updatedAt": "2025-04-21 14:16:31.560000",
+        "postDate": "2025-04-21T08:27:23Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sumit0_1-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/sumit0_1",
+            "platform_viewsCount": 1,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "Grandmaster! Lobby Push | Free Fire Chill Live.",
+            "description": "Grandmaster! Lobby Push | Free Fire Chill Live."
+        },
+        "popularityScore": 0.9933342727434247,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

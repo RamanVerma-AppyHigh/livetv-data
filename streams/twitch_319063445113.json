@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UCO_8hF-oulap_6lXy0oXLjg/live_23020",
+        "isVisible": true,
+        "stream_id": "twitch_319063445113",
+        "channel_name": "PenguStew",
+        "game_name": "ROBLOX",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 14:24:10.031000",
+        "updatedAt": "2025-04-21 14:32:26.569000",
+        "postDate": "2025-04-21T08:44:46Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pengustew-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/23020_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/PenguStew",
+            "platform_viewsCount": 23,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "\ud83e\udd11 PLS DONATE LIVE  \ud83d\udcb8RAISING STREAM, Giveaway in the discord!\ud83d\udcb0",
+            "description": "\ud83e\udd11 PLS DONATE LIVE  \ud83d\udcb8RAISING STREAM, Giveaway in the discord!\ud83d\udcb0"
+        },
+        "popularityScore": 0.9940649623755352,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

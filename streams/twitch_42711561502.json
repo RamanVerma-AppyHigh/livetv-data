@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC_vVy4OI86F0amXqFN_zTMg/live_502732",
+        "isVisible": true,
+        "stream_id": "twitch_42711561502",
+        "channel_name": "2realkaden",
+        "game_name": "Garena Free Fire",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2024-10-27 00:20:10.408000",
+        "updatedAt": "2024-10-27 00:36:29.561000",
+        "postDate": "2024-10-26T18:46:35Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2realkaden-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/2realkaden",
+            "platform_viewsCount": 1,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "rust pc",
+            "description": "rust pc"
+        },
+        "popularityScore": 0.9952410239262448,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

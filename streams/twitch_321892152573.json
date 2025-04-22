@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UCCR6qrG1BV8edeqWE-xnH_Q/live_512953",
+        "isVisible": true,
+        "stream_id": "twitch_321892152573",
+        "channel_name": "slandz__",
+        "game_name": "ELDEN RING",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 14:12:10.437000",
+        "updatedAt": "2025-04-21 14:16:34.198000",
+        "postDate": "2025-04-21T08:29:10Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slandz__-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/slandz__",
+            "platform_viewsCount": 9,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "4am (Unupgraded vykes in colo unless I mald and switch)",
+            "description": "4am (Unupgraded vykes in colo unless I mald and switch)"
+        },
+        "popularityScore": 0.9939898176114885,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC4VqtTvSS9mBshaRhezD-ug/live_1264310518",
+        "isVisible": true,
+        "stream_id": "twitch_314229055611",
+        "channel_name": "LexiGraham",
+        "game_name": "Marvel Rivals",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 13:24:09.984000",
+        "updatedAt": "2025-04-21 14:12:28.407000",
+        "postDate": "2025-04-21T07:08:01Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lexigraham-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/1264310518_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/LexiGraham",
+            "platform_viewsCount": 181,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "\u2764\ufe0fJust a lil stream\u2764\ufe0f | !wishlist !socials",
+            "description": "\u2764\ufe0fJust a lil stream\u2764\ufe0f | !wishlist !socials"
+        },
+        "popularityScore": 0.966872484870826,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

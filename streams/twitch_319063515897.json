@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC_vVy4OI86F0amXqFN_zTMg/live_502732",
+        "isVisible": true,
+        "stream_id": "twitch_319063515897",
+        "channel_name": "REAL_DRANCO1",
+        "game_name": "Garena Free Fire",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2025-04-21 14:20:10.045000",
+        "updatedAt": "2025-04-21 14:32:30.945000",
+        "postDate": "2025-04-21T08:46:37Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_real_dranco1-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/REAL_DRANCO1",
+            "platform_viewsCount": 2,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "\ud83d\udd35\ud83c\udf10\u274c DRANCO \u274c\ud83c\udf10\ud83d\udd35",
+            "description": "\ud83d\udd35\ud83c\udf10\u274c DRANCO \u274c\ud83c\udf10\ud83d\udd35"
+        },
+        "popularityScore": 0.9947680458081025,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]

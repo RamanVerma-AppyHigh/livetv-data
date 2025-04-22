@@ -1,0 +1,34 @@
+[
+    {
+        "key_id": "UC_vVy4OI86F0amXqFN_zTMg/live_502732",
+        "isVisible": true,
+        "stream_id": "twitch_41690844103",
+        "channel_name": "mazim5164",
+        "game_name": "Garena Free Fire",
+        "category": "gaming",
+        "platform": "twitch",
+        "createdAt": "2024-10-27 00:36:10.639000",
+        "updatedAt": "2024-10-27 00:36:10.639000",
+        "postDate": "2024-10-26T18:59:52Z",
+        "stream_poster_link": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mazim5164-640x480.jpg",
+        "game_poster_link": "https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-640x480.jpg",
+        "post_content": {
+            "platform_videoLink": "https://www.twitch.tv/mazim5164",
+            "platform_viewsCount": 0,
+            "platform_likesCount": 0,
+            "platform_dislikesCount": 0,
+            "caption": "Live streaming of mazim5164",
+            "description": "Live streaming of mazim5164"
+        },
+        "popularityScore": 1.0,
+        "downvotes_count": 0,
+        "downvoted_by": [],
+        "upvotes_count": 0,
+        "upvoted_by": [],
+        "country": [
+            "WW"
+        ],
+        "related_streams": [],
+        "isNative": false
+    }
+]
